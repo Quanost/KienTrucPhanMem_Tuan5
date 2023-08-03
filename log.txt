@@ -1,0 +1,10 @@
+2023-08-02 22:32:11 - Log message 1
+2023-08-02 22:32:11 - Log message 2
+2023-08-02 22:33:18 - Log message 1
+2023-08-02 22:33:18 - Log message 2
+2023-08-02 22:34:44 - Log message 1
+2023-08-02 22:34:44 - Log message 2
+2023-08-02 22:35:58 - Log message 1
+2023-08-02 22:35:58 - Log message 2
+2023-08-02 22:36:16 - Log message 1
+2023-08-02 22:36:23 - Log message 2
